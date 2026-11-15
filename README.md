@@ -1,4 +1,3 @@
-# latent-memory
-Code Release
+# Code Release Status
 
-We are currently conducting additional ablation experiments and preparing the code for release. The code is expected to be publicly available in December 2026. This timeline is tentative, and any updates will be posted here.
+This repository contains a preliminary implementation provided for inspection during the review period. The complete code release is planned for December 2026.
